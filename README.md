@@ -12,10 +12,10 @@ métodos, classes, escopo, tipo de variáveis
 
 blocos, Procs, lambdas, Sinatra
 
-# Aula 4
+## Aula 4
 
 Sinatra, Rails - exemplos
 
-# Aula 5
+## Aula 5
 
 Mais Rails, gems
